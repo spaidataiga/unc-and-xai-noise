@@ -1,0 +1,25 @@
+Data/*
+Models/*
+Tokenizers/*
+wandb/*
+ray_tune/*
+Saliency/*
+Hotflip/*
+Uncertainty/*
+Results/*
+Out/*
+Get Missing Data/*
+Figures/*
+Config/*
+ArchiveCode/*
+apex/*
+Resources/*
+tests/*
+*.out
+*.tsv
+*.sh
+*.csv
+*.zip
+*.yaml
+*.yml
+
