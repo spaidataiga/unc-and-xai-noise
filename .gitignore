@@ -24,4 +24,4 @@ __pycache__/*
 *.zip
 *.yaml
 *.yml
-
+*.pyc
